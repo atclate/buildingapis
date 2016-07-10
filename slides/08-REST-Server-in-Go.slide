@@ -1,0 +1,14 @@
+API Styles
+Building APIs in Go
+10 Jul 2016
+
+Brian Ketelsen, Raphael Simon
+bketelsen@goa.design
+@bketelsen
+raphael@goa.design
+@rgsimon
+
+* Build a REST Server in Go
+Now we'll build an API server in Go using only the standard library.
+
+Code for this exercise is in `/exercises/08-go-http-api`.
