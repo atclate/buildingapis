@@ -1,7 +1,7 @@
 package design
 
 import (
-	. "github.com/bketelsen/buildingapis/exercises/21-goa/solution/design/public"
+	. "github.com/atclate/buildingapis/exercises/21-goa/solution/design/public"
 	. "github.com/goadesign/goa/design"
 	. "github.com/goadesign/goa/design/apidsl"
 )
